@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-Ristiriitatiedosto, jossa on jotain random tekstiä.
-=======
-Osta kaupasta:
-Munia,
-Maitoa,
-Pekonia,
-Kahvia
->>>>>>> origin/master
